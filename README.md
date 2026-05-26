@@ -23,11 +23,13 @@ $ current_focus
 - UX Design
 ```
 
-## 🧠 About
+## 😊 About
 
 I’m a developer who enjoys understanding how things work—breaking down complexity and rebuilding it into solutions that feel simple and intuitive.
 
 I focus on writing clean, efficient code and building systems that are reliable, user-friendly, and designed with intention.
+
+---
 
 ## ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,php,mongodb,mysql,git,github,tailwind" /> </p>
@@ -40,8 +42,15 @@ I focus on writing clean, efficient code and building systems that are reliable,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddhagupta37&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🌐 Portfolio
+<p align="center"> <a href="https://shraddha-portfolio-theta.vercel.app"> <img src="https://img.shields.io/badge/Visit-Portfolio-B8860B?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+
 ## 📡 Connect
 <p align="center"> <a href="https://www.linkedin.com/in/shraddha-gupta-8ab9b828a/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp;&nbsp; <a href="mailto:gshraddha246850@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+
+---
 
 ```
 $ status
